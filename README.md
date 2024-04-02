@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Go Backend Developer <img src="ht
 - 💻 Currently, I'm working as a Go Backend Developer, utilizing my expertise in C# and .NET to develop robust web applications.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp;![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/xumoyunmirzo-qo-shmaqboyev-b195a3254)
+- 📫 How to reach me: &nbsp;[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xumoyunmirzo-qo-shmaqboyev-b195a3254)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
